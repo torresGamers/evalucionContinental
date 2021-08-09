@@ -70,7 +70,7 @@
 /* contenedor de imagen */
 .container-img{
     background-position-y: -180px;
-    background-image: url(../img/portada.png);
+    background-image: url(./img/portada.png);
     background-size: cover;
     background-repeat: no-repeat;
     /* background-attachment:fixed; */
